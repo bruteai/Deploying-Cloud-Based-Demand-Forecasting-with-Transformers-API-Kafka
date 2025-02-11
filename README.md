@@ -19,7 +19,7 @@ This project implements **Transformer-based AI forecasting**, integrates **real-
 ## 🚀 How to Run the Project
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/deploying-demand-forecasting-api.git
+git clone https://github.com/bruteai/deploying-demand-forecasting-api.git
 cd deploying-demand-forecasting-api
 ```
 ### 2️⃣ Install Dependencies
