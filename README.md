@@ -70,4 +70,3 @@ python stock_inventory/stock_inventory_manager.py
 
 💡 **Contributions Welcome!** If you'd like to improve this project, feel free to open a pull request.
 
-📩 **Contact:** [Your Email] | 🌍 [Your LinkedIn]
