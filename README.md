@@ -1,4 +1,4 @@
-# 🚀 Deploying AI-Powered Demand Forecasting with API, Stock Integration & Kafka
+# Deploying AI-Powered Demand Forecasting with API, Stock Integration & Kafka
 
 ## 📌 Project Overview
 This project implements **Transformer-based AI forecasting**, integrates **real-time stock inventory updates**, and deploys as a **cloud-based API using FastAPI**.
