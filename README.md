@@ -1,22 +1,22 @@
 # Deploying AI-Powered Demand Forecasting with API, Stock Integration & Kafka
 
-## 📌 Project Overview
+## Project Overview
 This project implements **Transformer-based AI forecasting**, integrates **real-time stock inventory updates**, and deploys as a **cloud-based API using FastAPI**.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Deep Learning:** PyTorch (LSTM & Transformer-based forecasting)
 - **Cloud Deployment:** FastAPI (REST API for Predictions)
 - **Streaming Pipeline:** Apache Kafka (Real-time Sales Data)
 - **Stock Inventory Integration:** API-based stock updates
 - **Data Processing:** Pandas, NumPy
 
-## 📌 Features Implemented
+## Features Implemented
 ✅ Transformer-based Time Series Forecasting  
 ✅ Cloud API Deployment with FastAPI  
 ✅ Real-time Sales Streaming via Kafka  
 ✅ Stock Inventory Management Integration  
 
-## 🚀 How to Run the Project
+## How to Run the Project
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/bruteai/deploying-demand-forecasting-api.git
@@ -61,7 +61,7 @@ python stock_inventory/stock_inventory_manager.py
 │── README.md                
 ```
 
-## 🎯 Future Enhancements
+## Future Enhancements
 - Implement **Multi-modal Forecasting (Time Series + External Factors)**  
 - Deploy on **AWS/GCP as a scalable microservice**  
 - Improve **Stock Management with AI-driven predictions**  
